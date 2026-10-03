@@ -5,3 +5,4 @@
 - 2026-09-25 | format: data-brief | Shoppers trust AI pricing over retailers; machine-readable pricing decision | drafts/2026-09-25-ai-reads-your-pricing-page.md
 - 2026-09-26 | format: playbook | Agent inventory layers will score and cut your shipped agent | drafts/2026-09-26-your-agent-is-about-to-be-inventoried.md
 - 2026-10-02 | format: teardown | Frontier agents skip Europe; planning region-gated AI rollouts | drafts/2026-10-02-ai-agents-skip-europe-region-gating.md
+- 2026-10-03 | format: contrarian-essay | Decision models force PMs to own a confidence threshold | drafts/2026-10-03-confidence-threshold-decision-models.md
