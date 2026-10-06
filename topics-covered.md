@@ -8,3 +8,4 @@
 - 2026-10-03 | format: contrarian-essay | Decision models force PMs to own a confidence threshold | drafts/2026-10-03-confidence-threshold-decision-models.md
 - 2026-10-04 | format: news-analysis | Apple narrows macOS Full Disk Access; scoping agent permissions | drafts/2026-10-04-apple-full-disk-access-agent-permissions.md
 - 2026-10-05 | format: incident-lesson | Detection without a tested stop path is not a control | drafts/2026-10-05-detection-worked-shutdown-didnt.md
+- 2026-10-06 | format: debate-brief | Agent memory vs documentation; inspectable records beat opaque recall | drafts/2026-10-06-agent-memory-vs-documentation.md
