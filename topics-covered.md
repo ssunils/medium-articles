@@ -9,3 +9,4 @@
 - 2026-10-04 | format: news-analysis | Apple narrows macOS Full Disk Access; scoping agent permissions | drafts/2026-10-04-apple-full-disk-access-agent-permissions.md
 - 2026-10-05 | format: incident-lesson | Detection without a tested stop path is not a control | drafts/2026-10-05-detection-worked-shutdown-didnt.md
 - 2026-10-06 | format: debate-brief | Agent memory vs documentation; inspectable records beat opaque recall | drafts/2026-10-06-agent-memory-vs-documentation.md
+- 2026-10-07 | format: strategy-brief | Suite vendors ship agent layers; stay callable or stay invisible | drafts/2026-10-07-suite-vendor-agent-layer-integration-decision.md
