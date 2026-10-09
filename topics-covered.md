@@ -11,3 +11,4 @@
 - 2026-10-06 | format: debate-brief | Agent memory vs documentation; inspectable records beat opaque recall | drafts/2026-10-06-agent-memory-vs-documentation.md
 - 2026-10-07 | format: strategy-brief | Suite vendors ship agent layers; stay callable or stay invisible | drafts/2026-10-07-suite-vendor-agent-layer-integration-decision.md
 - 2026-10-08 | format: audit-guide | Korean bank breaches hit partner portals, not core banking | drafts/2026-10-08-partner-portal-weakest-product.md
+- 2026-10-09 | format: tradeoff-brief | Model-generated UI breaks design review, instrumentation, A/B testing | drafts/2026-10-09-generated-ui-what-pms-still-own.md
