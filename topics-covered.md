@@ -12,3 +12,4 @@
 - 2026-10-07 | format: strategy-brief | Suite vendors ship agent layers; stay callable or stay invisible | drafts/2026-10-07-suite-vendor-agent-layer-integration-decision.md
 - 2026-10-08 | format: audit-guide | Korean bank breaches hit partner portals, not core banking | drafts/2026-10-08-partner-portal-weakest-product.md
 - 2026-10-09 | format: tradeoff-brief | Model-generated UI breaks design review, instrumentation, A/B testing | drafts/2026-10-09-generated-ui-what-pms-still-own.md
+- 2026-10-10 | format: field-guide | Agent identity: delegate or principal in your product | drafts/2026-10-10-agent-identity-delegate-or-principal.md
