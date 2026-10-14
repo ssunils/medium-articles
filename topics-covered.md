@@ -16,3 +16,4 @@
 - 2026-10-11 | format: design-brief | Agents submitting to your intake forms without human intent | drafts/2026-10-11-agents-are-filling-out-your-forms.md
 - 2026-10-12 | format: channel-decision | AI agents in text messages need platform permission, not reach | drafts/2026-10-12-your-agent-needs-permission-to-text.md
 - 2026-10-13 | format: consent-brief | Blanket AI consent waivers fail with high-leverage contributors | drafts/2026-10-13-ai-consent-blanket-waiver-product-decision.md
+- 2026-10-14 | format: teardown | How much of your agent's work to show users | drafts/2026-10-14-how-much-should-your-agent-show.md
