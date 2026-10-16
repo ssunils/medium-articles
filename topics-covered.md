@@ -18,3 +18,4 @@
 - 2026-10-13 | format: consent-brief | Blanket AI consent waivers fail with high-leverage contributors | drafts/2026-10-13-ai-consent-blanket-waiver-product-decision.md
 - 2026-10-14 | format: teardown | How much of your agent's work to show users | drafts/2026-10-14-how-much-should-your-agent-show.md
 - 2026-10-15 | format: pricing-brief | Model list prices now ship with expiry dates | drafts/2026-10-15-model-prices-with-expiry-dates.md
+- 2026-10-16 | format: rollout-brief | Honeywell ships three autonomy modes with top one disabled | drafts/2026-10-16-ship-the-autonomy-ladder-locked.md
