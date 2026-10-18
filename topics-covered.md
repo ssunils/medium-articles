@@ -20,3 +20,4 @@
 - 2026-10-15 | format: pricing-brief | Model list prices now ship with expiry dates | drafts/2026-10-15-model-prices-with-expiry-dates.md
 - 2026-10-16 | format: rollout-brief | Honeywell ships three autonomy modes with top one disabled | drafts/2026-10-16-ship-the-autonomy-ladder-locked.md
 - 2026-10-17 | format: adoption-brief | Embedded AI engineers measure your product gap, not demand | drafts/2026-10-17-embedded-engineer-product-gap.md
+- 2026-10-18 | format: sourcing-brief | Permissive open weights force a customer-hosted deployment answer | drafts/2026-10-18-customer-hosted-ai-tier-open-weights.md
