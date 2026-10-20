@@ -22,3 +22,4 @@
 - 2026-10-17 | format: adoption-brief | Embedded AI engineers measure your product gap, not demand | drafts/2026-10-17-embedded-engineer-product-gap.md
 - 2026-10-18 | format: sourcing-brief | Permissive open weights force a customer-hosted deployment answer | drafts/2026-10-18-customer-hosted-ai-tier-open-weights.md
 - 2026-10-19 | format: case-study | Santander Model Arena: build evaluation before routing to cheaper models | drafts/2026-10-19-model-arena-before-model-routing.md
+- 2026-10-20 | format: governance-brief | Hidden AI instructions in help pages are unreviewed product policy | drafts/2026-10-20-your-help-center-is-a-prompt.md
