@@ -23,3 +23,4 @@
 - 2026-10-18 | format: sourcing-brief | Permissive open weights force a customer-hosted deployment answer | drafts/2026-10-18-customer-hosted-ai-tier-open-weights.md
 - 2026-10-19 | format: case-study | Santander Model Arena: build evaluation before routing to cheaper models | drafts/2026-10-19-model-arena-before-model-routing.md
 - 2026-10-20 | format: governance-brief | Hidden AI instructions in help pages are unreviewed product policy | drafts/2026-10-20-your-help-center-is-a-prompt.md
+- 2026-10-21 | format: sequencing-brief | Agent runtime jumped 288x before spending caps shipped | drafts/2026-10-21-agent-runtime-is-a-budget-decision.md
