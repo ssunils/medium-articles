@@ -26,3 +26,4 @@
 - 2026-10-21 | format: sequencing-brief | Agent runtime jumped 288x before spending caps shipped | drafts/2026-10-21-agent-runtime-is-a-budget-decision.md
 - 2026-10-22 | format: metrics-brief | Proactive agents invert metrics; who pays for unprompted checks | drafts/2026-10-22-who-pays-for-your-agents-initiative.md
 - 2026-10-23 | format: dependency-brief | Agent Skills standard has no versions to pin against | drafts/2026-10-23-agent-skills-has-no-version-numbers.md
+- 2026-10-24 | format: spec-brief | Option order and rubric levels shape typed decision API output | drafts/2026-10-24-your-option-order-is-a-product-decision.md
