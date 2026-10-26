@@ -28,3 +28,4 @@
 - 2026-10-23 | format: dependency-brief | Agent Skills standard has no versions to pin against | drafts/2026-10-23-agent-skills-has-no-version-numbers.md
 - 2026-10-24 | format: spec-brief | Option order and rubric levels shape typed decision API output | drafts/2026-10-24-your-option-order-is-a-product-decision.md
 - 2026-10-25 | format: case-study | Agents shift the bottleneck to the human approval queue | drafts/2026-10-25-your-agent-moved-the-bottleneck.md
+- 2026-10-26 | format: segmentation-brief | AI spend concentration means plan top decile separately | drafts/2026-10-26-ai-usage-power-law-customer-base.md
