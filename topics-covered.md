@@ -31,3 +31,4 @@
 - 2026-10-26 | format: segmentation-brief | AI spend concentration means plan top decile separately | drafts/2026-10-26-ai-usage-power-law-customer-base.md
 - 2026-10-27 | format: negotiation-brief | Anthropic S-1 reveals locked costs, cancelable revenue; price your flexibility | drafts/2026-10-27-your-vendor-committed-you-didnt.md
 - 2026-10-28 | format: disclosure-brief | Shared inference cache leak makes tenant isolation a vendor property | drafts/2026-10-28-tenant-isolation-is-vendor-config.md
+- 2026-10-29 | format: containment-brief | Rare agent actions need containment, not bigger eval suites | drafts/2026-10-29-evals-wont-catch-rare-agent-actions.md
